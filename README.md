@@ -1,5 +1,10 @@
 # Selection Sort Visualizer using JavaScript
+
+
 >Link for Demo: https://abhianand0110.github.io/Selection-Sort-Visualizer/
+
+
+
 > Approach:
 ```
 Button Generate New Array generates an array of random values using the Math.random() function and a bar corresponding to that value in terms of height.
